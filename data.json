@@ -6,7 +6,7 @@
 	"website": "https://www.urbancompany.com/",
 	"logo": "UrbanCompany.png",
 	"valuation": "2",
-	"entry": "2021",
+	"entryYear": "2021",
 	"location": "Delhi",
 	"investors": "Tiger Global, Steadview Capital, Accel India, Elevation Capital, Vy Capital"
 }, {
@@ -17,18 +17,18 @@
 	"website": "https://www.chargebee.com/",
 	"logo": "ChargeBee.svg",
 	"valuation": "1.4",
-	"entry": "2021",
+	"entryYear": "2021",
 	"location": "Chennai",
 	"investors": "Tiger Global, Steadview Capital, Sapphire Ventures, Accel India, Insight Venture Partners"
 }, {
 	"id": "47",
 	"name": "Gupshup",
 	"sector": "Conversational Messaging",
-	"description": "enter_some_text",
+	"description": "Social Messaging",
 	"website": "https://www.gupshup.io/",
 	"logo": "GupShup.png",
 	"valuation": "1.4",
-	"entry": "2021",
+	"entryYear": "2021",
 	"location": "Mumbai",
 	"investors": "Tiger Global, Charles River Ventures, Helion Ventures"
 }, {
@@ -39,7 +39,7 @@
 	"website": "https://sharechat.com/",
 	"logo": "ShareChat.svg",
 	"valuation": "2.1",
-	"entry": "2021",
+	"entryYear": "2021",
 	"location": "Bangalore",
 	"investors": "India Quotient, Elevation Capital, Lightspeed Ventures, Tiger Global, Twitter"
 }, {
@@ -50,7 +50,7 @@
 	"website": "https://groww.in/",
 	"logo": "Groww.svg",
 	"valuation": "1",
-	"entry": "2021",
+	"entryYear": "2021",
 	"location": "Bangalore",
 	"investors": "Sequoia Capital India, Y Combinator, Tiger Global, Ribbit Capital"
 }, {
@@ -61,7 +61,7 @@
 	"website": "https://pharmeasy.in/",
 	"logo": "PharmEasy.png",
 	"valuation": "1.5",
-	"entry": "2021",
+	"entryYear": "2021",
 	"location": "Mumbai",
 	"investors": "Orios VP, Eight Roads Ventures, Temasek, Naspers"
 }, {
@@ -72,7 +72,7 @@
 	"website": "https://cred.club/",
 	"logo": "Cred.png",
 	"valuation": "2.2",
-	"entry": "2021",
+	"entryYear": "2021",
 	"location": "Mumbai",
 	"investors": "Sequoia Capital India, Ribbit Capital, DST Global, Falcon Edge Capital"
 }, {
@@ -83,7 +83,7 @@
 	"website": "https://meesho.com/",
 	"logo": "Meesho.png",
 	"valuation": "2.1",
-	"entry": "2021",
+	"entryYear": "2021",
 	"location": "Bangalore",
 	"investors": "Sequoia Capital India, Elevation Capital, SoftBank, Naspers"
 }, {
@@ -94,7 +94,7 @@
 	"website": "https://www.firstcry.com/",
 	"logo": "FirstCry.png",
 	"valuation": "2.1",
-	"entry": "2021",
+	"entryYear": "2021",
 	"location": "Pune",
 	"investors": "Chiratae Ventures, Elevation Capital, Vertex, SoftBank"
 }, {
@@ -105,7 +105,7 @@
 	"website": "https://fivestargroup.in/",
 	"logo": "FiveStarBusinessFinance.png",
 	"valuation": "1.4",
-	"entry": "2021",
+	"entryYear": "2021",
 	"location": "Chennai",
 	"investors": "Matrix Partners India, Sequoia Capital India, Norwest, Morgan Stanley, TPG Capital"
 }, {
@@ -116,7 +116,7 @@
 	"website": "https://infra.market/",
 	"logo": "InfraMarket.png",
 	"valuation": "1",
-	"entry": "2021",
+	"entryYear": "2021",
 	"location": "Thane",
 	"investors": "Accel India, Nexus Venture Partners, Tiger Global, Evolvence India"
 }, {
@@ -127,7 +127,7 @@
 	"website": "https://innovaccer.com/",
 	"logo": "Innovaccer.svg",
 	"valuation": "1.3",
-	"entry": "2021",
+	"entryYear": "2021",
 	"location": "Noida",
 	"investors": "WestBridge, Lightspeed Ventures, M12 (Microsoft), Tiger Global"
 }, {
@@ -138,7 +138,7 @@
 	"website": "https://www.godigit.com/",
 	"logo": "Digit.svg",
 	"valuation": "1.9",
-	"entry": "2021",
+	"entryYear": "2021",
 	"location": "Bangalore",
 	"investors": "Fairfax Holdings, A91 Partners, Faering Capital, TVS Capital"
 }, {
@@ -149,7 +149,7 @@
 	"website": "https://www.glance.com/",
 	"logo": "Glance.png",
 	"valuation": "1",
-	"entry": "2020",
+	"entryYear": "2020",
 	"location": "Bangalore",
 	"investors": "Mithril Capital, Google"
 }, {
@@ -160,7 +160,7 @@
 	"website": "https://dailyhunt.in/",
 	"logo": "DailyHunt.svg",
 	"valuation": "1",
-	"entry": "2020",
+	"entryYear": "2020",
 	"location": "Bangalore",
 	"investors": "Matrix Partners India, Omidyar Network, Sequoia Capital India, Falcon Edge Capital"
 }, {
@@ -171,7 +171,7 @@
 	"website": "https://www.zenoti.com/",
 	"logo": "Zenoti.png",
 	"valuation": "1",
-	"entry": "2020",
+	"entryYear": "2020",
 	"location": "Hyderabad/Bellevue",
 	"investors": "Accel India, Norwest, Tiger Global, Steadview Capital, Advent International"
 }, {
@@ -182,7 +182,7 @@
 	"website": "http://www.cars24.com/",
 	"logo": "Cars24.png",
 	"valuation": "1",
-	"entry": "2020",
+	"entryYear": "2020",
 	"location": "Gurgaon",
 	"investors": "Asia Venture Group, Apoletto, Unbound, DST Global, Sequoia Capital India"
 }, {
@@ -193,7 +193,7 @@
 	"website": "https://razorpay.com/",
 	"logo": "RazorPay.svg",
 	"valuation": "1",
-	"entry": "2020",
+	"entryYear": "2020",
 	"location": "Bangalore",
 	"investors": "Matrix Partners India, Tiger Global, Sequoia Capital India, DST Global"
 }, {
@@ -204,7 +204,7 @@
 	"website": "https://unacademy.com/",
 	"logo": "Unacademy.svg",
 	"valuation": "2",
-	"entry": "2020",
+	"entryYear": "2020",
 	"location": "Bangalore",
 	"investors": "Blume Ventures, Nexus Venture Partners, Sequoia Capital India, Elevation Capital, General Atlantic, SoftBank"
 }, {
@@ -215,7 +215,7 @@
 	"website": "https://www.postman.com/",
 	"logo": "Postman.svg",
 	"valuation": "2",
-	"entry": "2020",
+	"entryYear": "2020",
 	"location": "Bangalore/San Francisco",
 	"investors": "Nexus Ventures, Charles River Ventures, Insight Venture Partners"
 }, {
@@ -226,7 +226,7 @@
 	"website": "https://www.nykaa.com/",
 	"logo": "Nykaa.svg",
 	"valuation": "1.2",
-	"entry": "2020",
+	"entryYear": "2020",
 	"location": "Mumbai",
 	"investors": "Techpro Ventures, TVS Capital, Sharrp Ventures, TPG Growth"
 }, {
@@ -237,7 +237,7 @@
 	"website": "https://www.pinelabs.com/",
 	"logo": "PineLabs.png",
 	"valuation": "2",
-	"entry": "2020",
+	"entryYear": "2020",
 	"location": "Noida",
 	"investors": "Sequoia Capital India, New Atlantic Ventures, Altimeter Capital, Temasek, Mastercard"
 }, {
@@ -248,7 +248,7 @@
 	"website": "https://www.lenskart.com/",
 	"logo": "LensKart.svg",
 	"valuation": "1.5",
-	"entry": "2019",
+	"entryYear": "2019",
 	"location": "Bangalore",
 	"investors": "SoftBank Corp, Kedaara Capital, TPG, Chiratae Ventures, TR Capital"
 }, {
@@ -259,7 +259,7 @@
 	"website": "https://olaelectric.com/",
 	"logo": "OlaElectric.svg",
 	"valuation": "1.1",
-	"entry": "2019",
+	"entryYear": "2019",
 	"location": "Bangalore",
 	"investors": "SoftBank Corp, Tiger Global, Matrix Partners"
 }, {
@@ -270,7 +270,7 @@
 	"website": "https://www.citiustech.com/",
 	"logo": "CitiusTech.png",
 	"valuation": "1.1",
-	"entry": "2019",
+	"entryYear": "2019",
 	"location": "Mumbai/Princeton",
 	"investors": "General Atlantic, Baring Asia"
 }, {
@@ -281,7 +281,7 @@
 	"website": "https://www.icertis.com/",
 	"logo": "Icertis.svg",
 	"valuation": "2.8",
-	"entry": "2019",
+	"entryYear": "2019",
 	"location": "Pune/Bellevue",
 	"investors": "Eight Roads, B Capital, PremjiInvest"
 }, {
@@ -292,7 +292,7 @@
 	"website": "https://www.druva.com/",
 	"logo": "Druva.svg",
 	"valuation": "1",
-	"entry": "2019",
+	"entryYear": "2019",
 	"location": "Pune/Sunnyvale",
 	"investors": "WestBridge, Nexus Ventures, Sequoia Capital"
 }, {
@@ -303,7 +303,7 @@
 	"website": "https://www.rivigo.com/",
 	"logo": "Rivigo.png",
 	"valuation": "1.1",
-	"entry": "2019",
+	"entryYear": "2019",
 	"location": "Gurgaon",
 	"investors": "Elevation Capital, Warburg Pincus"
 }, {
@@ -314,7 +314,7 @@
 	"website": "https://www.bigbasket.com/",
 	"logo": "BigBasket.png",
 	"valuation": "1.2",
-	"entry": "2019",
+	"entryYear": "2019",
 	"location": "Bangalore",
 	"investors": "Ascent Capital, Helion Ventures, Bessemer, IFC, Alibaba"
 }, {
@@ -325,7 +325,7 @@
 	"website": "https://www.dream11.com/",
 	"logo": "Dream11.webp",
 	"valuation": "5",
-	"entry": "2019",
+	"entryYear": "2019",
 	"location": "Mumbai",
 	"investors": "Kalaari Capital, Tencent, Multiples PE, Steadview, Falcon Edge Capital"
 }, {
@@ -336,7 +336,7 @@
 	"website": "https://www.delhivery.com/",
 	"logo": "Delhivery.png",
 	"valuation": "1.6",
-	"entry": "2019",
+	"entryYear": "2019",
 	"location": "Gurgaon",
 	"investors": "Nexus Ventures, Multiples PE, Tiger Global, Carlyle, SoftBank Corp, Fosun Group"
 }, {
@@ -347,7 +347,7 @@
 	"website": "https://www.billdesk.com/",
 	"logo": "BillDesk.gif",
 	"valuation": "1.6",
-	"entry": "2018",
+	"entryYear": "2018",
 	"location": "Mumbai",
 	"investors": "SIDBI VC, TA Associates, General Atlantic"
 }, {
@@ -358,7 +358,7 @@
 	"website": "https://www.freshworks.com/",
 	"logo": "Freshworks.svg",
 	"valuation": "3.5",
-	"entry": "2018",
+	"entryYear": "2018",
 	"location": "Chennai/San Mateo",
 	"investors": "Accel, Tiger Global, Google, Sequoia Capital"
 }, {
@@ -369,7 +369,7 @@
 	"website": "https://udaan.com/",
 	"logo": "Udaan.png",
 	"valuation": "3.1",
-	"entry": "2018",
+	"entryYear": "2018",
 	"location": "Bangalore",
 	"investors": "Lightspeed Ventures, DST Global, Tencent"
 }, {
@@ -380,7 +380,7 @@
 	"website": "https://www.oyorooms.com/",
 	"logo": "OyoRooms.png",
 	"valuation": "8.4",
-	"entry": "2018",
+	"entryYear": "2018",
 	"location": "Gurgaon",
 	"investors": "Lightspeed Ventures, Sequoia Capital, SoftBank"
 }, {
@@ -391,7 +391,7 @@
 	"website": "https://www.policybazaar.com/",
 	"logo": "olicyBazaar.svg",
 	"valuation": "2.4",
-	"entry": "2018",
+	"entryYear": "2018",
 	"location": "Gurgaon",
 	"investors": "Info Edge, Intel, Inventus Capital, Tiger Global, SoftBank, Tencent"
 }, {
@@ -402,7 +402,7 @@
 	"website": "https://www.swiggy.com/",
 	"logo": "Swiggy.png",
 	"valuation": "5",
-	"entry": "2018",
+	"entryYear": "2018",
 	"location": "Bangalore",
 	"investors": "Accel, Elevation Capital, Norwest, Naspers, Tencent"
 }, {
@@ -413,7 +413,7 @@
 	"website": "https://paytmmall.com/",
 	"logo": "PaytmMall.png",
 	"valuation": "3",
-	"entry": "2018",
+	"entryYear": "2018",
 	"location": "Noida",
 	"investors": "Elevation Capital, Alibaba, SoftBank, eBay"
 }, {
@@ -424,7 +424,7 @@
 	"website": "http://byjus.com/",
 	"logo": "Byjus.png",
 	"valuation": "13.7",
-	"entry": "2018",
+	"entryYear": "2018",
 	"location": "Bangalore",
 	"investors": "Aarin Capital, Sequoia Capital, Lightspeed Ventures, Tencent, General Atlantic, Tiger Global"
 }, {
@@ -435,7 +435,7 @@
 	"website": "https://www.shopclues.com/",
 	"logo": "Shopclues.png",
 	"valuation": "1.1",
-	"entry": "2016",
+	"entryYear": "2016",
 	"location": "Gurgaon",
 	"investors": "Nexus Ventures, Helion Ventures, Beenos, Tiger Global, Others"
 }, {
@@ -446,7 +446,7 @@
 	"website": "https://www.hike.in/",
 	"logo": "Hike.png",
 	"valuation": "1.4",
-	"entry": "2016",
+	"entryYear": "2016",
 	"location": "Delhi",
 	"investors": "Tiger Global, Tencent, Foxconn"
 }, {
@@ -457,7 +457,7 @@
 	"website": "https://www.zomato.com/",
 	"logo": "Zomato.png",
 	"valuation": "5.4",
-	"entry": "2015",
+	"entryYear": "2015",
 	"location": "Gurgaon",
 	"investors": "Info Edge, Sequoia Capital, Vy Capital, Alibaba"
 }, {
@@ -468,7 +468,7 @@
 	"website": "https://www.quikr.com/",
 	"logo": "Quikr.png",
 	"valuation": "1.6",
-	"entry": "2015",
+	"entryYear": "2015",
 	"location": "Bangalore",
 	"investors": "Matrix Partners, Omidyar Network, Norwest, Kinnevik"
 }, {
@@ -479,7 +479,7 @@
 	"website": "https://paytm.com/",
 	"logo": "Paytm.png",
 	"valuation": "16",
-	"entry": "2015",
+	"entryYear": "2015",
 	"location": "Noida",
 	"investors": "Saama Capital, Elevation Capital, Alibaba, Berkshire Hathway"
 }, {
@@ -490,7 +490,7 @@
 	"website": "https://www.olacabs.com/",
 	"logo": "Ola.svg",
 	"valuation": "6.7",
-	"entry": "2015",
+	"entryYear": "2015",
 	"location": "Bangalore",
 	"investors": "Tiger Global, Matrix Partners, Steadview, SoftBank, Tencent"
 }, {
@@ -501,7 +501,7 @@
 	"website": "https://www.snapdeal.com/",
 	"logo": "Snapdeal.svg",
 	"valuation": "6.5",
-	"entry": "2014",
+	"entryYear": "2014",
 	"location": "Delhi",
 	"investors": "Kalaari Capital, Nexus Ventures, Bessemer, SoftBank, Alibaba"
 }, {
@@ -512,7 +512,7 @@
 	"website": "https://www.flipkart.com/",
 	"logo": "Flipkart.png",
 	"valuation": "23",
-	"entry": "2012",
+	"entryYear": "2012",
 	"location": "Bangalore",
 	"investors": "Accel, Tiger Global, Naspers, SoftBank, Tencent"
 }, {
@@ -523,7 +523,7 @@
 	"website": "https://www.mu-sigma.com/",
 	"logo": "MuSigma.png",
 	"valuation": "1.5",
-	"entry": "2013",
+	"entryYear": "2013",
 	"location": "Bangalore",
 	"investors": "Accel, Sequoia Capital, General Atlantic"
 }, {
@@ -534,7 +534,7 @@
 	"website": "https://www.inmobi.com/",
 	"logo": "InMobi.svg",
 	"valuation": "1",
-	"entry": "2011",
+	"entryYear": "2011",
 	"location": "Bangalore",
 	"investors": "KPCB, Sherpalo Ventures, SoftBank"
 }]
