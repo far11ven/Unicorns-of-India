@@ -1,4 +1,15 @@
 [{
+	"id": "50",
+	"name": "Moglix",
+	"sector": "Marketplace - Industrial Equipment",
+	"description": "Quality home services, on demand",
+	"website": "https://www.moglix.com",
+	"logo": "Moglix.png",
+	"valuation": "1",
+	"entryYear": "2021",
+	"location": "Noida",
+	"investors": "Accel India, Jungle Ventures, Tiger Global, Sequoia Capital India, IFC"
+},{
 	"id": "49",
 	"name": "Urban Company",
 	"sector": "Marketplace - Handyman Services",
