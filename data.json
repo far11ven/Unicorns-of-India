@@ -1,4 +1,15 @@
 [{
+	"id": "51",
+	"name": "Zeta",
+	"sector": "API - Financial Services - Banking",
+	"description": "Modern Processing Stack and Embeddable Banking",
+	"website": "https://www.zeta.tech",
+	"logo": "Zeta.svg",
+	"valuation": "1.4",
+	"entryYear": "2021",
+	"location": "Bangalore/San Francisco",
+	"investors": "SoftBank"
+},{
 	"id": "50",
 	"name": "Moglix",
 	"sector": "Marketplace - Industrial Equipment",
