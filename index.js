@@ -1,7 +1,7 @@
 window.onload = function() {
 getBackEndInfo().then(unicornData => {
 
-    for (let i = 0; i < unicornData.length; i++){
+  for (let i = unicornData.length-1; i>=0; i--){
         let currCompany = unicornData[i];
 
         document.getElementById("content").insertAdjacentHTML('afterbegin',
