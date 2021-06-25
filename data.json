@@ -1,4 +1,15 @@
 [{
+	"id": "52",
+	"name": "BrowserStack",
+	"sector": "SaaS - Programming Tools - Testing",
+	"description": "App & Cross Browser Testing",
+	"website": "https://www.browserstack.com/",
+	"logo": "BrowserStack.svg",
+	"valuation": "4",
+	"entryYear": "2021",
+	"location": "Mumbai/Dublin",
+	"investors": "Accel, Bond Capital, Insight Venture Partners"
+},{
 	"id": "51",
 	"name": "Zeta",
 	"sector": "API - Financial Services - Banking",
