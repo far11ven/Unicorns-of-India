@@ -1,6 +1,6 @@
 [ {
 	"id": 61,
-	"company": "Grofers",
+	"name": "Grofers",
 	"sector": "E-Commerce - Groceries",
 	"description": "E-Commerce - Groceries",
 	"website": "https://grofers.com/",
@@ -12,7 +12,7 @@
   },
   {
 	"id": 60,
-	"company": "Eruditus",
+	"name": "Eruditus",
 	"sector": "Edtech - Executive Education",
 	"description": "Edtech - Executive Education",
 	"website": "https://www.eruditus.com/",
@@ -24,7 +24,7 @@
   },
   {
 	"id": 59,
-	"company": "CoinDCX",
+	"name": "CoinDCX",
 	"sector": "Cryptocurrency Exchange",
 	"description": "Cryptocurrency Exchange",
 	"website": "https://www.coindcx.com/",
@@ -36,7 +36,7 @@
   },
   {
 	"id": 58,
-	"company": "upGrad",
+	"name": "upGrad",
 	"sector": "Edtech - Higher Studies",
 	"description": "Edtech - Higher Studies",
 	"website": "https://www.upgrad.com/",
@@ -48,7 +48,7 @@
   },
   {
 	"id": 57,
-	"company": "MindTickle",
+	"name": "MindTickle",
 	"sector": "SaaS - HR - Training",
 	"description": "Sales readiness and sales enablement platform",
 	"website": "https://www.mindtickle.com/",
@@ -60,7 +60,7 @@
   },
   {
 	"id": 56,
-	"company": "BharatPe",
+	"name": "BharatPe",
 	"sector": "Fintech - Payments",
 	"description": "Fintech - Payments",
 	"website": "https://bharatpe.com/",
@@ -72,7 +72,7 @@
   },
   {
 	"id": 55,
-	"company": "OfBusiness",
+	"name": "OfBusiness",
 	"sector": "NBFC (SME Loans)",
 	"description": "NBFC (SME Loans)",
 	"website": "https://www.ofbusiness.com/",
@@ -84,7 +84,7 @@
   },
   {
 	"id": 54,
-	"company": "Droom",
+	"name": "Droom",
 	"sector": "Marketplace - Used Cars",
 	"description": "Marketplace - Used Cars",
 	"website": "https://droom.in/",
@@ -96,7 +96,7 @@
   },
   {
 	"id": 53,
-	"company": "BlackBuck",
+	"name": "BlackBuck",
 	"sector": "Logistics Services",
 	"description": "Logistics Services",
 	"website": "https://www.blackbuck.com/",
