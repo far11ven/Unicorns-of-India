@@ -1,5 +1,16 @@
 [ {
-	"id": 61,
+	"id": 63,
+	"name": "Zetwerk",
+	"sector": "Marketplace - Manufacturing Services",
+	"description": "Marketplace - Manufacturing Services",
+	"website": "https://grofers.com/",
+	"logo": "Zetwork.png",
+	"valuation": 1,
+	"entryYear": 2021,
+	"location": "Bangalore",
+	"investors": "Kae Capital, Sequoia Capital India, Accel India, Lightspeed Ventures, D1 Capital Partners"
+  },{
+	"id": 62,
 	"name": "Grofers",
 	"sector": "E-Commerce - Groceries",
 	"description": "E-Commerce - Groceries",
@@ -11,7 +22,7 @@
 	"investors": "Tiger Global, Sequoia Capital India, SoftBank, Apoletto, Zomato"
   },
   {
-	"id": 60,
+	"id": 61,
 	"name": "Eruditus",
 	"sector": "Edtech - Executive Education",
 	"description": "Edtech - Executive Education",
@@ -23,7 +34,7 @@
 	"investors": "SoftBank, Accel, Sequoia Capital India, Bertelsmann India Investments"
   },
   {
-	"id": 59,
+	"id": 60,
 	"name": "CoinDCX",
 	"sector": "Cryptocurrency Exchange",
 	"description": "Cryptocurrency Exchange",
@@ -35,7 +46,7 @@
 	"investors": "B Capital, Coinbase Ventures, Polychain Capital"
   },
   {
-	"id": 58,
+	"id": 59,
 	"name": "upGrad",
 	"sector": "Edtech - Higher Studies",
 	"description": "Edtech - Higher Studies",
@@ -47,7 +58,7 @@
 	"investors": "Temasek, IFC"
   },
   {
-	"id": 57,
+	"id": 58,
 	"name": "MindTickle",
 	"sector": "SaaS - HR - Training",
 	"description": "Sales readiness and sales enablement platform",
@@ -59,7 +70,7 @@
 	"investors": "SoftBank, Accel India, Qualcomm Ventures, Norwest"
   },
   {
-	"id": 56,
+	"id": 57,
 	"name": "BharatPe",
 	"sector": "Fintech - Payments",
 	"description": "Fintech - Payments",
@@ -71,7 +82,7 @@
 	"investors": "Beenext, Sequoia Capital India, Tiger Global, Steadview Capital"
   },
   {
-	"id": 55,
+	"id": 56,
 	"name": "OfBusiness",
 	"sector": "NBFC (SME Loans)",
 	"description": "NBFC (SME Loans)",
@@ -83,7 +94,7 @@
 	"investors": "SoftBank, Matrix Partners India, Zodius Capital, Falcon Edge Capital"
   },
   {
-	"id": 54,
+	"id": 55,
 	"name": "Droom",
 	"sector": "Marketplace - Used Cars",
 	"description": "Marketplace - Used Cars",
@@ -95,7 +106,7 @@
 	"investors": "Beenos Partners, Lightbox, Axis Capital Partners, Beenext"
   },
   {
-	"id": 53,
+	"id": 54,
 	"name": "BlackBuck",
 	"sector": "Logistics Services",
 	"description": "Logistics Services",
@@ -107,7 +118,7 @@
 	"investors": "Accel India, Sequoia Capital India, Sands Capital, IFC, Tiger Global"
   },
   {
-	"id": "52",
+	"id": 53,
 	"name": "BrowserStack",
 	"sector": "SaaS - Programming Tools - Testing",
 	"description": "App & Cross Browser Testing",
@@ -118,7 +129,7 @@
 	"location": "Mumbai/Dublin",
 	"investors": "Accel, Bond Capital, Insight Venture Partners"
 },{
-	"id": "51",
+	"id": 52,
 	"name": "Zeta",
 	"sector": "API - Financial Services - Banking",
 	"description": "Modern Processing Stack and Embeddable Banking",
@@ -129,7 +140,7 @@
 	"location": "Bangalore/San Francisco",
 	"investors": "SoftBank"
 },{
-	"id": "50",
+	"id": 51,
 	"name": "Moglix",
 	"sector": "Marketplace - Industrial Equipment",
 	"description": "Quality home services, on demand",
@@ -140,7 +151,7 @@
 	"location": "Noida",
 	"investors": "Accel India, Jungle Ventures, Tiger Global, Sequoia Capital India, IFC"
 },{
-	"id": "49",
+	"id": 50,
 	"name": "Urban Company",
 	"sector": "Marketplace - Handyman Services",
 	"description": "B2B Commerce for Industrial Tools, Safety Equipment, Power Tools etc.",
@@ -151,7 +162,7 @@
 	"location": "Delhi",
 	"investors": "Tiger Global, Steadview Capital, Accel India, Elevation Capital, Vy Capital"
 }, {
-	"id": "48",
+	"id": 49,
 	"name": "ChargeBee",	
 	"sector": "SaaS - Subscription Billing Solution",
 	"description": "Scale your Subscription Business",
@@ -162,7 +173,7 @@
 	"location": "Chennai",
 	"investors": "Tiger Global, Steadview Capital, Sapphire Ventures, Accel India, Insight Venture Partners"
 }, {
-	"id": "47",
+	"id": 48,
 	"name": "Gupshup",
 	"sector": "Conversational Messaging",
 	"description": "Social Messaging",
@@ -173,7 +184,7 @@
 	"location": "Mumbai",
 	"investors": "Tiger Global, Charles River Ventures, Helion Ventures"
 }, {
-	"id": "46",
+	"id": 47,
 	"name": "ShareChat",
 	"sector": "Social Media",
 	"description": "Social Media Tools",
@@ -184,7 +195,7 @@
 	"location": "Bangalore",
 	"investors": "India Quotient, Elevation Capital, Lightspeed Ventures, Tiger Global, Twitter"
 }, {
-	"id": "45",
+	"id": 46,
 	"name": "Groww",
 	"sector": "Personal Finance - Mutual Funds",
 	"description": "Groww - Online Demat, Trading and Direct Mutual Fund Investment in India",
@@ -195,7 +206,7 @@
 	"location": "Bangalore",
 	"investors": "Sequoia Capital India, Y Combinator, Tiger Global, Ribbit Capital"
 }, {
-	"id": "44",
+	"id": 45,
 	"name": "Pharmeasy",
 	"sector": "E-Pharmacies",
 	"description": "PharmEasy: Online Pharmacy & Medical Store in India | 5M+ Customers",
@@ -206,7 +217,7 @@
 	"location": "Mumbai",
 	"investors": "Orios VP, Eight Roads Ventures, Temasek, Naspers"
 }, {
-	"id": "43",
+	"id": 44,
 	"name": "Cred",
 	"sector": "Payments - Credit Card Rewards",
 	"description": "rewards for paying credit card bills",
@@ -217,7 +228,7 @@
 	"location": "Mumbai",
 	"investors": "Sequoia Capital India, Ribbit Capital, DST Global, Falcon Edge Capital"
 }, {
-	"id": "42",
+	"id": 43,
 	"name": "Meesho",
 	"sector": "Social Commerce",
 	"description": "Meesho: #1 Reselling App. Earn Money Online. Work From Home.",
@@ -228,7 +239,7 @@
 	"location": "Bangalore",
 	"investors": "Sequoia Capital India, Elevation Capital, SoftBank, Naspers"
 }, {
-	"id": "41",
+	"id": 42,
 	"name": "FirstCry",
 	"sector": "E-Commerce",
 	"description": "Baby Products Online India",
@@ -239,7 +250,7 @@
 	"location": "Pune",
 	"investors": "Chiratae Ventures, Elevation Capital, Vertex, SoftBank"
 }, {
-	"id": "40",
+	"id": 41,
 	"name": "Five Star Business Finance",
 	"sector": "NBFC",
 	"description": "Financial Solutions Needs",
@@ -250,7 +261,7 @@
 	"location": "Chennai",
 	"investors": "Matrix Partners India, Sequoia Capital India, Norwest, Morgan Stanley, TPG Capital"
 }, {
-	"id": "39",
+	"id": 40,
 	"name": "Infra.Market",
 	"sector": "Marketplace - Construction Materials",
 	"description": "Re-Building Construction",
@@ -261,7 +272,7 @@
 	"location": "Thane",
 	"investors": "Accel India, Nexus Venture Partners, Tiger Global, Evolvence India"
 }, {
-	"id": "38",
+	"id": 39,
 	"name": "Innovaccer",
 	"sector": "Data Analytics - Healthcare",
 	"description": "Helping healthcare care as one",
@@ -272,7 +283,7 @@
 	"location": "Noida",
 	"investors": "WestBridge, Lightspeed Ventures, M12 (Microsoft), Tiger Global"
 }, {
-	"id": "37",
+	"id": 38,
 	"name": "Digit",
 	"sector": "Insurance - General",
 	"description": "Digit Insurance: Car, Bike, Health, & Travel Insurance in India",
@@ -283,7 +294,7 @@
 	"location": "Bangalore",
 	"investors": "Fairfax Holdings, A91 Partners, Faering Capital, TVS Capital"
 }, {
-	"id": "36",
+	"id": 37,
 	"name": "Glance InMobi",
 	"sector": "Content - News",
 	"description": "Trending Stories On Your Lock Screen",
@@ -294,7 +305,7 @@
 	"location": "Bangalore",
 	"investors": "Mithril Capital, Google"
 }, {
-	"id": "35",
+	"id": 36,
 	"name": "Dailyhunt",
 	"sector": "Content - News",
 	"description": "News & Videos in 14 Indian Languages",
@@ -305,7 +316,7 @@
 	"location": "Bangalore",
 	"investors": "Matrix Partners India, Omidyar Network, Sequoia Capital India, Falcon Edge Capital"
 }, {
-	"id": "34",
+	"id": 35,
 	"name": "Zenoti",
 	"sector": "SaaS - Salon &amp; Spa Management",
 	"description": "Salon, Spa Software",
@@ -316,7 +327,18 @@
 	"location": "Hyderabad/Bellevue",
 	"investors": "Accel India, Norwest, Tiger Global, Steadview Capital, Advent International"
 }, {
-	"id": "33",
+	"id": 34,
+	"name": "PhonePe",
+	"sector": "Fintech - Payments",
+	"description": "Fintech - Payments",
+	"website": "https://www.zenoti.com/",
+	"logo": "PhonePe.svg",
+	"valuation": "5.5",
+	"entryYear": "2020",
+	"location": "Bangalore",
+	"investors": "Tiger Global, Tencent"
+}, {
+	"id": 33,
 	"name": "Cars24",
 	"sector": "Auto Sales (Used Cars)",
 	"description": "Marketplace for used cars",
@@ -327,7 +349,7 @@
 	"location": "Gurgaon",
 	"investors": "Asia Venture Group, Apoletto, Unbound, DST Global, Sequoia Capital India"
 }, {
-	"id": "32",
+	"id": 32,
 	"name": "RazorPay",
 	"sector": "Payments (B2B)",
 	"description": "Payment Gateway for Online Payments - India",
@@ -338,7 +360,7 @@
 	"location": "Bangalore",
 	"investors": "Matrix Partners India, Tiger Global, Sequoia Capital India, DST Global"
 }, {
-	"id": "31",
+	"id": 31,
 	"name": "Unacademy",
 	"sector": "Edtech",
 	"description": "India’s largest learning platform",
@@ -349,7 +371,7 @@
 	"location": "Bangalore",
 	"investors": "Blume Ventures, Nexus Venture Partners, Sequoia Capital India, Elevation Capital, General Atlantic, SoftBank"
 }, {
-	"id": "30",
+	"id": 30,
 	"name": "Postman",
 	"sector": "SaaS - API Development &amp; Testing",
 	"description": "The Collaboration Platform for API Development",
@@ -360,7 +382,7 @@
 	"location": "Bangalore/San Francisco",
 	"investors": "Nexus Ventures, Charles River Ventures, Insight Venture Partners"
 }, {
-	"id": "29",
+	"id": 29,
 	"name": "Nykaa",
 	"sector": "E-Commerce",
 	"description": "Online Cosmetic and Beauty product store",
@@ -371,7 +393,7 @@
 	"location": "Mumbai",
 	"investors": "Techpro Ventures, TVS Capital, Sharrp Ventures, TPG Growth"
 }, {
-	"id": "28",
+	"id": 28,
 	"name": "Pine Labs",
 	"sector": "Payments",
 	"description": "Leading Merchant Platform for 360-Degree Payment Solutions",
@@ -382,7 +404,7 @@
 	"location": "Noida",
 	"investors": "Sequoia Capital India, New Atlantic Ventures, Altimeter Capital, Temasek, Mastercard"
 }, {
-	"id": "27",
+	"id": 27,
 	"name": "Lenskart",
 	"sector": "Eyewear",
 	"description": "Online Eyewear Marketplace",
@@ -393,7 +415,7 @@
 	"location": "Bangalore",
 	"investors": "SoftBank Corp, Kedaara Capital, TPG, Chiratae Ventures, TR Capital"
 }, {
-	"id": "26",
+	"id": 26,
 	"name": "Ola Electric",
 	"sector": "Mobility",
 	"description": "Mobility for the world, sustainability for the future.",
@@ -404,7 +426,7 @@
 	"location": "Bangalore",
 	"investors": "SoftBank Corp, Tiger Global, Matrix Partners"
 }, {
-	"id": "25",
+	"id": 25,
 	"name": "Citius Tech",
 	"sector": "IT - Healthcare",
 	"description": "Healthcare IT Services & Medical Software Company",
@@ -415,7 +437,7 @@
 	"location": "Mumbai/Princeton",
 	"investors": "General Atlantic, Baring Asia"
 }, {
-	"id": "24",
+	"id": 24,
 	"name": "Icertis",
 	"sector": "Contract Management",
 	"description": "Contract Management",
@@ -426,7 +448,7 @@
 	"location": "Pune/Bellevue",
 	"investors": "Eight Roads, B Capital, PremjiInvest"
 }, {
-	"id": "23",
+	"id": 23,
 	"name": "Druva Software",
 	"sector": "Data Management",
 	"description": "Cloud Data Protection for Modern Workloads",
@@ -437,7 +459,7 @@
 	"location": "Pune/Sunnyvale",
 	"investors": "WestBridge, Nexus Ventures, Sequoia Capital"
 }, {
-	"id": "22",
+	"id": 22,
 	"name": "Rivigo",
 	"sector": "Trucking Services",
 	"description": "Logistics Services",
@@ -448,7 +470,7 @@
 	"location": "Gurgaon",
 	"investors": "Elevation Capital, Warburg Pincus"
 }, {
-	"id": "21",
+	"id": 21,
 	"name": "BigBasket",
 	"sector": "Groceries",
 	"description": "Online Grocery Shopping",
@@ -459,7 +481,7 @@
 	"location": "Bangalore",
 	"investors": "Ascent Capital, Helion Ventures, Bessemer, IFC, Alibaba"
 }, {
-	"id": "20",
+	"id": 20,
 	"name": "Dream11",
 	"sector": "Gaming",
 	"description": "Cricket Gaming",
@@ -470,7 +492,7 @@
 	"location": "Mumbai",
 	"investors": "Kalaari Capital, Tencent, Multiples PE, Steadview, Falcon Edge Capital"
 }, {
-	"id": "19",
+	"id": 19,
 	"name": "Delhivery",
 	"sector": "Logistics Services",
 	"description": "Logistics Company",
@@ -481,7 +503,7 @@
 	"location": "Gurgaon",
 	"investors": "Nexus Ventures, Multiples PE, Tiger Global, Carlyle, SoftBank Corp, Fosun Group"
 }, {
-	"id": "18",
+	"id": 18,
 	"name": "BillDesk",
 	"sector": "Payments (B2B)",
 	"description": "Payment Gateway, Billing Payment Solution",
@@ -492,7 +514,7 @@
 	"location": "Mumbai",
 	"investors": "SIDBI VC, TA Associates, General Atlantic"
 }, {
-	"id": "17",
+	"id": 17,
 	"name": "Freshworks",
 	"sector": "SaaS - CRM",
 	"description": "Best-in-class customer and employee engagement",
@@ -503,7 +525,7 @@
 	"location": "Chennai/San Mateo",
 	"investors": "Accel, Tiger Global, Google, Sequoia Capital"
 }, {
-	"id": "16",
+	"id": 16,
 	"name": "Udaan",
 	"sector": "E-Commerce (B2B)",
 	"description": "India's largest B2B Platform for businesses & shop-owners",
@@ -514,7 +536,7 @@
 	"location": "Bangalore",
 	"investors": "Lightspeed Ventures, DST Global, Tencent"
 }, {
-	"id": "15",
+	"id": 15,
 	"name": "Oyo Rooms",
 	"sector": "Budget Hotels",
 	"description": "World's Fastest Growing Hotel Chain",
@@ -525,7 +547,7 @@
 	"location": "Gurgaon",
 	"investors": "Lightspeed Ventures, Sequoia Capital, SoftBank"
 }, {
-	"id": "14",
+	"id": 14,
 	"name": "PolicyBazaar",
 	"sector": "Insurance Tech",
 	"description": "Online Insuraance Platform",
@@ -536,7 +558,7 @@
 	"location": "Gurgaon",
 	"investors": "Info Edge, Intel, Inventus Capital, Tiger Global, SoftBank, Tencent"
 }, {
-	"id": "13",
+	"id": 13,
 	"name": "Swiggy",
 	"sector": "Foodtech",
 	"description": "Order Food Online",
@@ -547,7 +569,7 @@
 	"location": "Bangalore",
 	"investors": "Accel, Elevation Capital, Norwest, Naspers, Tencent"
 }, {
-	"id": "12",
+	"id": 12,
 	"name": "Paytm Mall",
 	"sector": "E-Commerce",
 	"description": "E-Commerce Website",
@@ -558,7 +580,7 @@
 	"location": "Noida",
 	"investors": "Elevation Capital, Alibaba, SoftBank, eBay"
 }, {
-	"id": "11",
+	"id": 11,
 	"name": "Byjus Classes",
 	"sector": "Edtech",
 	"description": "Educational technology company",
@@ -569,7 +591,7 @@
 	"location": "Bangalore",
 	"investors": "Aarin Capital, Sequoia Capital, Lightspeed Ventures, Tencent, General Atlantic, Tiger Global"
 }, {
-	"id": "10",
+	"id": 10,
 	"name": "Shopclues*",
 	"sector": "E-Commerce",
 	"description": "Online Shopping Site in India",
@@ -580,7 +602,7 @@
 	"location": "Gurgaon",
 	"investors": "Nexus Ventures, Helion Ventures, Beenos, Tiger Global, Others"
 }, {
-	"id": "9",
+	"id": 9,
 	"name": "Hike",
 	"sector": "Messaging",
 	"description": "Social Media",
@@ -591,7 +613,7 @@
 	"location": "Delhi",
 	"investors": "Tiger Global, Tencent, Foxconn"
 }, {
-	"id": "8",
+	"id": 8,
 	"name": "Zomato",
 	"sector": "Foodtech",
 	"description": "Online Food Delivery",
@@ -602,7 +624,7 @@
 	"location": "Gurgaon",
 	"investors": "Info Edge, Sequoia Capital, Vy Capital, Alibaba"
 }, {
-	"id": "7",
+	"id": 7,
 	"name": "Quikr*",
 	"sector": "Classifieds",
 	"description": "Free Classified ads in India",
@@ -613,7 +635,7 @@
 	"location": "Bangalore",
 	"investors": "Matrix Partners, Omidyar Network, Norwest, Kinnevik"
 }, {
-	"id": "6",
+	"id": 6,
 	"name": "Paytm",
 	"sector": "Payments",
 	"description": "Payment Technology",
@@ -624,7 +646,7 @@
 	"location": "Noida",
 	"investors": "Saama Capital, Elevation Capital, Alibaba, Berkshire Hathway"
 }, {
-	"id": "5",
+	"id": 5,
 	"name": "Ola",
 	"sector": "Ride Hailing",
 	"description": "Ride Hailing/Sharing",
@@ -635,7 +657,7 @@
 	"location": "Bangalore",
 	"investors": "Tiger Global, Matrix Partners, Steadview, SoftBank, Tencent"
 }, {
-	"id": "4",
+	"id": 4,
 	"name": "Snapdeal*",
 	"sector": "E-Commerce",
 	"description": "Online Shopping Site in India",
@@ -646,7 +668,7 @@
 	"location": "Delhi",
 	"investors": "Kalaari Capital, Nexus Ventures, Bessemer, SoftBank, Alibaba"
 }, {
-	"id": "3",
+	"id": 3,
 	"name": "Flipkart*",
 	"sector": "E-Commerce",
 	"description": "Online Shopping Site in India",
@@ -657,7 +679,7 @@
 	"location": "Bangalore",
 	"investors": "Accel, Tiger Global, Naspers, SoftBank, Tencent"
 }, {
-	"id": "2",
+	"id": 2,
 	"name": "Mu Sigma",
 	"sector": "Analytics",
 	"description": "Data Analytics Firm",
@@ -668,7 +690,7 @@
 	"location": "Bangalore",
 	"investors": "Accel, Sequoia Capital, General Atlantic"
 }, {
-	"id": "1",
+	"id": 1,
 	"name": "InMobi",
 	"sector": "Mobile Ads",
 	"description": "Mobile In-App Advertising and Monetization Solutions",
